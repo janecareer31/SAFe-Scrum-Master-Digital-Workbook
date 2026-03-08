@@ -1,5 +1,44 @@
 # Agile Delivery Leader | Scrum Master | SAFe Practitioner | Agile Coach
 Sample Agile coaching material used to train and mentor teams in the SAFe Scrum Master framework. Includes exercises, facilitation practices, PI Planning guidance, and Agile transformation techniques used in enterprise environments.
+# Jane Buro
+
+Agile Delivery Leader | Senior Scrum Master | SAFe Practitioner | Agile Coach
+
+Experienced Agile professional with a background in coaching cross-functional teams, facilitating Agile ceremonies, and supporting enterprise Agile transformations. I specialize in helping organizations adopt Agile frameworks such as Scrum, SAFe, Kanban, and LeSS while improving delivery efficiency and team collaboration.
+
+## Core Competencies
+
+• Agile Coaching
+• Scrum & SAFe Facilitation
+• PI Planning & Program Delivery
+• Agile Transformation
+• Team Mentoring & Leadership
+• Jira & Confluence
+• Enterprise Agile Governance
+
+## Frameworks
+
+Scrum | SAFe | Kanban | LeSS | Agile Scaling
+
+## What You'll Find in My Portfolio
+
+This GitHub portfolio contains example Agile coaching materials, training resources, facilitation templates, and sample frameworks used to support Agile teams and enterprise transformation initiatives.
+
+## Featured Repositories
+
+• Agile Coaching Toolkit
+• SAFe Scrum Master Training Materials
+• Agile Metrics & Team Performance Dashboard
+• Scrum Ceremony Facilitation Guide
+
+## Professional Focus
+
+Helping teams improve collaboration, transparency, and delivery predictability while aligning Agile practices with business goals.
+
+## Contact
+
+LinkedIn:https://www.linkedin.com/in/jane-buro/
+
 # Agile Coaching & Training Materials
 
 ## Overview
